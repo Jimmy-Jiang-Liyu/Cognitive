@@ -1,4 +1,4 @@
-from SubsectionExtraction.src.preprocessing.html_parser import SANHtmlParser
+from src.preprocessing.html_parser import SANHtmlParser
 
 
 def add_border(html_block):
